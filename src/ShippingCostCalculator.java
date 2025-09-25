@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ShippingCost {
+public class ShippingCostCalculator {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         double itemPrice = 0.0;
